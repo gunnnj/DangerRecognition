@@ -1,0 +1,14 @@
+Cai dat cac thu vien python
+
+import cv2
+from ultralytics import YOLO
+import numpy
+import mediapipe
+import tensorflow
+
+chay chuong trinh file predict_model.py
+Luu y vi tri file LC.py va POSE.py cung voi predict_model.py
+
+Thay đoi duong dan vi tri cua file best.pt o file LC.py
+Thay doi duong dan vi tri cua file model1v4.h5 o file predict_model.py
+Thay đoi duong dan vi tri cua file video o file predict_model.py
